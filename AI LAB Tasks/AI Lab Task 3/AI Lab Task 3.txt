@@ -1,0 +1,5 @@
+Living Room, 26, 16, Heater is OFF
+Kitchen, 14, 16, Heater is ON
+Library room, 28, 16, Heater is OFF
+Kitchen, 14, 16, Heater is ON
+Library room, 28, 16, Heater is OFF
